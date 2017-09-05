@@ -1,3 +1,11 @@
+/* Common style applied to all content */
+
 .main {
   font-family: Verdana;
+}
+
+/* Primary header */
+
+.main h1 {
+  text-align: center;
 }
